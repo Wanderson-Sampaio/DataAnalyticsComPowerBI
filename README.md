@@ -10,3 +10,6 @@ Criando Um Relatório Gerencial de Vendas com Power BI
 Projeto 03
 Criando um Dashboard corporativo com integração com MySQL e Azure
 
+Projeto 04
+Dashboard de Vendas com Power BI utilizando Star Schema
+
